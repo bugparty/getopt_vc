@@ -19,3 +19,12 @@
 *.exe
 *.out
 *.app
+
+# vc
+*.sdf
+*.pdb
+*.opensdf
+*.log
+*.tlog
+*.ipch
+
